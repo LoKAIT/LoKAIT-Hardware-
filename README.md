@@ -12,3 +12,6 @@ A rugged, solar-powered, offline AI education device for children in underserved
 ## Get Involved
 - Hardware, Software/AI and Pedagogy contributors welcome
 - Looking for hardware designers, STEM pedagogy experts and AI optimizers
+
+## Documentation
+- [Download Hardware Engineering White Paper (DOCX)](LoKAIT_Hardware_White_Paper.docx)
